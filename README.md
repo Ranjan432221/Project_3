@@ -1,2 +1,2 @@
 # Project_3
-new repository
+It is a small e-commerce website
